@@ -89,18 +89,14 @@ CREATE TABLE blog_posts (
 );
 ```
 
-## Project Structure
-
+| #
+# Project Structure
 ```
-/blog-editor
-│
-├── assets/
-│   ├── images/
-│   │   ├── airtel.png
-│   │   ├── blog_view.png
-│   │   ├── blogs.png
-│   │   ├── editor.png
-│   │   └── login.png
+| airtel.png
+│ blog_view.png
+│ blogs.png
+│ editor.png
+│ login.png
 │
 ├── php/
 │   ├── auth.php          # Authentication handlers
